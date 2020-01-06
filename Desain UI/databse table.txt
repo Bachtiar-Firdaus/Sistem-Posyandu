@@ -1,0 +1,38 @@
+Pendataran
++ ID_Pendaftar
++ Tgl_Daftar
++ Nama_Pasien
++ Jenis Kelamin
++ Alamat_Pasien
++ No_Telp_Pasien
++ Kategori_Pasien
++ Umur_Pasien
+
+
+
+KMS
++ ID_KMS
++ Tgl_Daftar_KMS
++ Nama_Pasien
++ Jenis Kelamin
++ Alamat_Pasien
++ No_Telp_Pasien
++ Berat_Badan
++ Keluhan
++ Penyuluhan
+
+Petugas
++ ID_Kader
++ Nama_Kader
++ Jabatan
++ Alamat_Kader
++ No_Telp_Kader
++ Password
+
+Kepala Pokja
++ ID_Kabag
++ Nama_Kabag
++ Alamat_Kabag
++ No_Telp_Kabag
++ Password
+

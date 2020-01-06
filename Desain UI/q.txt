@@ -1,0 +1,11 @@
++ ID_KMS
++ Tgl_Daftar
++ Nama_Pasien
++ Jenkel_Pasien
++ Alamat_Pasien
++ No_Telp_Pasien
++ Berat_Badan
++ Keluhan
++ Tindakan
+
++ Nama_User
